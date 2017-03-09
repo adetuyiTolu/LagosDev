@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lagos Developers</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scrolling_profile">ScrollingProfile</string>
+    <string name="title_activity_profile">Developer Profile</string>
+    <string name="link_description">Click on the link below to get more information
+        about this developer</string>
+</resources>
